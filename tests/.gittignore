@@ -1,0 +1,30 @@
+# Node.js modülleri
+node_modules/
+
+# Playwright Trace dosyaları
+trace/
+
+# Playwright raporları (HTML raporları)
+test-results/
+
+# Log dosyaları
+*.log
+
+# Çıktı dosyaları
+out/
+
+# Geçici dosyalar
+*.tmp
+*.swp
+
+# IDE ve editörlerin oluşturduğu geçici dosyalar
+.vscode/
+.idea/
+
+# Playwright test geçici dosyaları
+playwright-report/
+
+# Çevre dosyaları
+.env
+.env.local
+.env.*.local
